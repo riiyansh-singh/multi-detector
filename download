@@ -1,0 +1,17 @@
+# dlib model - too large for GitHub (95MB)
+shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat.bz2
+
+# Sound files - add your own
+sounds/alarm_sleep.wav
+sounds/alarm_fire.wav
+sounds/alarm_smile.wav
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
